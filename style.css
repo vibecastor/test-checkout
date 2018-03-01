@@ -1,0 +1,23 @@
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background-color: rgb(194, 236, 224);
+}
+
+header, footer {
+  height: 100px;
+  background-color: #EAC67A;
+}
+
+body {
+  height: 100%;
+  margin: 0px;
+  background-color: #233237;
+}
+
+main {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
